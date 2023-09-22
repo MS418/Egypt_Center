@@ -119,3 +119,7 @@ body {
 .footer .container p {
     font-size: 12px;
 }
+
+.container .tables img{
+    width: 100%;
+}
