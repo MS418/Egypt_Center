@@ -53,6 +53,9 @@
             <a href="Call_center.html">
                 <button><i class="fa-solid fa-phone"></i>Call center</button>
             </a>
+            <a href="tables.html">
+                <button><i class="fa-solid fa-table-list"></i>Tables</button>
+            </a>
         </div>
 
 <!--
